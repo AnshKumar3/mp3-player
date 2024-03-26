@@ -13,6 +13,28 @@ const allSongs = [
     duration: "4:25",
     src: "./vaibhav.mp3",
   },
+  {
+    id: 5,
+    title: "ansh",
+    artist: "ansh",
+    duration: "4:25",
+    src: "./vaibhav.mp3",
+  },
+  {
+    id:6,
+    title: "ansh",
+    artist: "ansh",
+    duration: "4:25",
+    src: "./vaibhav.mp3",
+  },
+  
+  {
+    id: 4,
+    title: "ansh",
+    artist: "ansh",
+    duration: "4:25",
+    src: "./vaibhav.mp3",
+  },
   
   {
     id: 1,
