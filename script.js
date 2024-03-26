@@ -15,21 +15,21 @@ const allSongs = [
   },
   
   {
-    id: 0,
+    id: 1,
     title: "avina",
     artist: "ansh",
     duration: "4:25",
     src: "./avina.mp3",
   },
   {
-    id: 0,
+    id: 2,
     title: "vaibhav",
     artist: "ansh",
     duration: "4:25",
     src: "./vaibhav.mp3",
   },
   {
-    id: 0,
+    id: 3,
     title: "ansh",
     artist: "ansh",
     duration: "4:25",
