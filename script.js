@@ -11,7 +11,7 @@ const allSongs = [
     title: "ansh",
     artist: "ansh",
     duration: "4:25",
-    src: "./avina.mp3",
+    src: "./vaibhav.mp3",
   },
   
   {
