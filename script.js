@@ -22,7 +22,7 @@ const allSongs = [
   },
   {
     id:6,
-    title: "ansh",
+    title: "aaaa",
     artist: "ansh",
     duration: "4:25",
     src: "./vaibhav.mp3",
@@ -38,7 +38,7 @@ const allSongs = [
   
   {
     id: 1,
-    title: "avina",
+    title: "aaaa",
     artist: "ansh",
     duration: "4:25",
     src: "./avina.mp3",
